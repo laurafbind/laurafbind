@@ -37,7 +37,7 @@ I love combining creativity with logic—whether designing **Powerpuff Girls-sty
 [📧 Email](mailto:laurafebi02@gmail.com) •  
 [💼 LinkedIn](https://www.linkedin.com/in/laurafbind)
 
-Feel free to explore my repos or reach out for collaboration, mentoring, or a good chat about tech and impact. ☕
+Feel free to explore my repos or reach out for collaboration or a good chat about tech and impact. ☕
 
 ---
 
