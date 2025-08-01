@@ -1,6 +1,6 @@
 
 ## 👋 Hi there, I'm Laura!
-
+<!-- 
 🎯 **System Analyst | Data Enthusiast | Creative Technologist**
 
 I'm passionate about building scalable systems and analyzing data to solve real-world problems. With a solid foundation in **system analysis**, **project management**, and **tech education**, I enjoy turning complex needs into clear, actionable solutions that make an impact.
@@ -13,7 +13,7 @@ I'm passionate about building scalable systems and analyzing data to solve real-
 - 👩‍🏫 **Teaching & Mentoring**: Database concepts, design thinking  
 
 ---
-<!-- 
+
 ### 🚀 Featured Projects
 - **SmartBizz** – Platform for urban economic inclusion  
 - **SPARRING App** – Matchmaking AI for collaborative learning  
